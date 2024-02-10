@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c2aa929-4f70-4333-b5cc-32f6f6bba306": {
+      "ProjectGuid": "4c2aa929-4f70-4333-b5cc-32f6f6bba306",
+      "DisplayName": "WebApi",
+      "ColorIndex": 0
+    },
+    "158788b6-1fe8-472e-97ac-cbd4c4544414": {
+      "ProjectGuid": "158788b6-1fe8-472e-97ac-cbd4c4544414",
+      "DisplayName": "DataAccess.EFCore",
+      "ColorIndex": 1
+    },
+    "2be602ea-5903-4b05-9b15-cf505dc3db3f": {
+      "ProjectGuid": "2be602ea-5903-4b05-9b15-cf505dc3db3f",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

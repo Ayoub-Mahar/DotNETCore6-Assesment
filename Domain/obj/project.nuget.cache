@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MaANVaBfQJjJ03ZfucUYtt2itCmfrFOgLNPM0cneGMj7vWzA1nsCXKQiXUrD9DSGNhOCb3Qpl27jwhQR4vZikg==",
+  "success": true,
+  "projectFilePath": "D:\\Eid Pics 2023\\WebApi\\WebApi\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

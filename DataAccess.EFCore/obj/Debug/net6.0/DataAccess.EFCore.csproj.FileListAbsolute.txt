@@ -1,0 +1,30 @@
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.deps.json
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.dll
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\bin\Debug\net6.0\ref\DataAccess.EFCore.dll
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.pdb
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\bin\Debug\net6.0\Domain.dll
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\bin\Debug\net6.0\Domain.pdb
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.CopyComplete
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.dll
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\obj\Debug\net6.0\ref\DataAccess.EFCore.dll
+C:\Users\1\source\repos\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.pdb
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.deps.json
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.dll
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.pdb
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\bin\Debug\net6.0\Domain.dll
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\bin\Debug\net6.0\Domain.pdb
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.AssemblyReference.cache
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.AssemblyInfoInputs.cache
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.AssemblyInfo.cs
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.CopyComplete
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.dll
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\obj\Debug\net6.0\refint\DataAccess.EFCore.dll
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.pdb
+D:\Eid Pics 2023\WebApi\WebApi\DataAccess.EFCore\obj\Debug\net6.0\ref\DataAccess.EFCore.dll
